@@ -1,10 +1,10 @@
 # 🔖 ALUNOS
 
 - [Andrei Rech | 23102140](https://github.com/AndreiRech) 
-- [Carlos Eduardo | ](https://github.com/shimpas-ville)
+- [Carlos Eduardo | 23102218](https://github.com/shimpas-ville)
 - [Eduardo Colla De Bastiani | 23106295](https://github.com/eduardo-de-bastiani)
 - [Eduardo Wolf | 23102268](https://github.com/dudu-wolf)
-- [Urien Nolasco | ](#)
+- [Urien Nolasco | 23102720](https://github.com/UrienNolasco)
 
 # 📚 INTRODUÇÃO
 
