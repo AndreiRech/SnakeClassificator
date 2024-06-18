@@ -5,6 +5,7 @@
 - [Eduardo Colla De Bastiani | 23106295](https://github.com/eduardo-de-bastiani)
 - [Eduardo Wolf | 23102268](https://github.com/dudu-wolf)
 - [Urien Nolasco | 23102720](https://github.com/UrienNolasco)
+- [Victor dos Santos Cruz | 21103101](https://github.com/vteze)
 
 # 📚 INTRODUÇÃO
 
