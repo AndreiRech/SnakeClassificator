@@ -59,11 +59,15 @@ jupyter lab
 **DESENVOLVIMENTO**
 
 - [X] Realizar pré-processamento
-- [ ] Aplicar outros algortimos
+- [X] Aplicar outros algortimos
 - [X] Padronizar saídas 
 
 **AUXILIARES**
 
 - [X] Encontrar dataset
 - [X] Analisar as saídas
-- [ ] Realizar uma demo
+- [X] Realizar uma demo
+
+**FAZER FUNCIONAR**
+
+- [] Simplesmente impossível
