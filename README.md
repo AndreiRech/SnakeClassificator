@@ -43,6 +43,11 @@ pip install tqdm
 pip install seaborn
 ```
 
+- *ScikitLearn*
+```
+pip install scikit-learn
+```
+
 Por fim, caso esteja utilizando o **JupyterLab**, abra o mesmo pelo terminal utilizando:
 ```
 jupyter lab
@@ -67,7 +72,3 @@ jupyter lab
 - [X] Encontrar dataset
 - [X] Analisar as saídas
 - [X] Realizar uma demo
-
-**FAZER FUNCIONAR**
-
-- [] Simplesmente impossível
